@@ -2,8 +2,19 @@
 
 I'm a passionate **software engineer and full-stack developer** from **ALX Africa**, dedicated to coding, bringing technology to production, and exploring the spatial dimensions of tech with **GIS projects**. I’m a participant in the **GitHub All In Africa Program** and actively involved in **open-source projects** to strengthen my skills across various tech stacks.
 
-![Tracy's github stats](https://github-readme-stats.vercel.app/api?username=sambutracy)
-![chart](./profile-3d-contrib/profile-green-animate.svg)
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+  </p>
+</div>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sambutracy.sambutracy)
 
@@ -23,6 +34,8 @@ I'm a passionate **software engineer and full-stack developer** from **ALX Afric
 
 
 ## 🛠️ Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambutracy&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,django,postgres)](https://skillicons.dev)
 
