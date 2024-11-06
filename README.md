@@ -1,6 +1,10 @@
-# Hi, I'm Tracy Sambu! 👋
+![Hello](docs/hello.svg)
+
+<h1 align="center">Hi 👋, I'm Tracy SAMBU </h1>
 
 I'm a passionate **software engineer and full-stack developer** from **ALX Africa**, dedicated to coding, bringing technology to production, and exploring the spatial dimensions of tech with **GIS projects**. I’m a participant in the **GitHub All In Africa Program** and actively involved in **open-source projects** to strengthen my skills across various tech stacks.
+
+<p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sambutracy&theme=algolia" alt="sambutracy" /></p>
 
 <div>
 <!--   <p align="center">
@@ -10,9 +14,9 @@ I'm a passionate **software engineer and full-stack developer** from **ALX Afric
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambutracy" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sambutracy" alt="WakaTime" />
   </p>
 </div>
 
