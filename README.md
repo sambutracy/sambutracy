@@ -39,9 +39,8 @@ I'm a passionate **software engineer and full-stack developer** from **ALX Afric
 
 ## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambutracy&layout=compact)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,django,postgres)](https://skillicons.dev)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambutracy&layout=compact)   
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,django,postgres)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
