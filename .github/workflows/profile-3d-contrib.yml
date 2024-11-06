@@ -23,11 +23,11 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.sambutracy }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
           
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # the content will be available at https://raw.githubusercontent.com/<sambutracy>/<sambutracy>/<target_branch>/<file> , or as github page
       - name: push SVGs to the output-3d branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
