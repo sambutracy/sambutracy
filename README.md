@@ -2,13 +2,9 @@
 
 I'm a passionate **software engineer and full-stack developer** from **ALX Africa**, dedicated to coding, bringing technology to production, and exploring the spatial dimensions of tech with **GIS projects**. I’m a participant in the **GitHub All In Africa Program** and actively involved in **open-source projects** to strengthen my skills across various tech stacks.
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<sambutracy>/<sambutracy>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<sambutracy>/<sambutracy>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<sambutracy>/<sambutracy>/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+![Tracy's github stats](https://github-readme-stats.vercel.app/api?username=sambutracy)
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sambutracy.sambutracy)
 
 ## 🚀 About Me
 
